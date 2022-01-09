@@ -24,7 +24,7 @@ This is Todo Tracker for command line interface. It is built using rich, Typer a
    
     <img alt="" src="./images/help.png"/>
 
-2. <command> help
+2. <COMMAND> help
 
     ```python todocli.py <COMMAND> --help```
 
