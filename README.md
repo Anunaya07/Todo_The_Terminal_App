@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
     <img alt="" src="./images/funcHelp.png"/>
 
-### CURD Operations
+### CRUD Operations
 
 2. Add 
 
