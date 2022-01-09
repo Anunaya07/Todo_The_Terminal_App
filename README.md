@@ -3,6 +3,11 @@
 This is Todo Tracker for command line interface. It is built using rich, Typer and Sqlite3. 
 
 ### Requirements:
+
+```
+pip install -r requirements.txt
+```
+
 1. Python>=3.3
 
     install [python](https://www.python.org/downloads/)
