@@ -9,7 +9,9 @@ This is Todo Tracker for command line interface. It is built using rich, Typer a
 
 2. Rich Library
 
-    ```pip install rich```
+    ```
+    pip install rich
+    ```
 
 3. Typer Library
  
